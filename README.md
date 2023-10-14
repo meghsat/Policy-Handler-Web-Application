@@ -1,5 +1,5 @@
 # Policy-Handler-Web-Application
-React and Dotnet based Admin side Health Care Policy Benefits Portal.
+React and .net-based Admin side Health Care Policy Benefits Portal.
 
 **Backend Implementation**
 <br/>
