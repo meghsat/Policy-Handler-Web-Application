@@ -1,6 +1,5 @@
 # Policy-Handler-Web-Application
-React and .net-based Admin side Health Care Policy Benefits Portal.
-
+I have developed a comprehensive policy management system utilizing ReactJS and .NET, featuring distinct admin and customer interfaces. Administrators can seamlessly add and modify policies, while customers can select tailored policies through questionnaire responses. Our website incorporates an advanced chatbot for real-time customer support. 
 **Backend Implementation**
 <br/>
 - *cd Controllers Backend*
